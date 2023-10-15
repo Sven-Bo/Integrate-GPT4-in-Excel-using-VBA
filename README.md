@@ -1,7 +1,7 @@
 ⚠️ **NOTE**: The provided code and the Excel add-in only works on Windows. ⚠️
 <br/><br/>
 # GPT-3.5-turbo and GPT-4 in Excel
-This repository contains VBA modules that enable integration of the GPT-3.5-turbo and GPT-4 models into Microsoft Excel, as demonstrated in the accompanying [YouTube video](link-to-the-video) [VIDEO COMING SOON!]. The provided VBA code allows you to leverage ChatGPT capabilities directly within Excel, aiding in various data processing and text generation tasks.
+This repository contains VBA modules that enable integration of the GPT-3.5-turbo and GPT-4 models into Microsoft Excel, as demonstrated in the accompanying [YouTube video](https://youtu.be/3Z96yLlDim0). The provided VBA code allows you to leverage ChatGPT capabilities directly within Excel, aiding in various data processing and text generation tasks.
 
 ## MyToolBelt Add-in
 If you're looking for a more comprehensive solution, consider trying the [MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt). This Excel add-in also integrates ChatGPT into Excel, alongside additional features and improved error handling to enhance the user experience and streamline tasks.
@@ -10,7 +10,7 @@ If you're looking for a more comprehensive solution, consider trying the [MyTool
 
 
 ### Video Tutorial
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/3Z96yLlDim0/0.jpg)](https://youtu.be/3Z96yLlDim0)
 
 ## Common Issues and Solutions
 
